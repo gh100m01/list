@@ -1,0 +1,13 @@
+avsnoop.co.uk##div#adArea
+avsnoop.co.uk##div#bbsview>div.inner>div.viewbox>div.adbox
+avsnoop.co.uk##div#side>div.inner>div.banner
+
+torrentwiz2.com##div#main-menu-wrapper div.clearfix.left_banner
+torrentwiz2.com##div.idx-sidebox>div.clearfix.hiddenpage
+torrentwiz2.com##div.pr_left_banner
+torrentwiz2.com##div.pr_main_right_1
+torrentwiz2.com##div.pr_main_right_2
+torrentwiz2.com##div.pr_main_right_4
+torrentwiz2.com##div.pr_view
+torrentwiz2.com##div.top_banner
+torrentwiz2.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
