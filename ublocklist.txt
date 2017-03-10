@@ -2,12 +2,12 @@ avsnoop.club##div#adArea
 avsnoop.club##div#bbsview>div.inner>div.viewbox>div.adbox
 avsnoop.club##div#side>div.inner>div.banner
 
-torrentwiz2.com##div#main-menu-wrapper div.clearfix.left_banner
-torrentwiz2.com##div.idx-sidebox>div.clearfix.hiddenpage
-torrentwiz2.com##div.pr_left_banner
-torrentwiz2.com##div.pr_main_right_1
-torrentwiz2.com##div.pr_main_right_2
-torrentwiz2.com##div.pr_main_right_4
-torrentwiz2.com##div.pr_view
-torrentwiz2.com##div.top_banner
-torrentwiz2.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
+torrentwiz3.com##div#main-menu-wrapper div.clearfix.left_banner
+torrentwiz3.com##div.idx-sidebox>div.clearfix.hiddenpage
+torrentwiz3.com##div.pr_left_banner
+torrentwiz3.com##div.pr_main_right_1
+torrentwiz3.com##div.pr_main_right_2
+torrentwiz3.com##div.pr_main_right_4
+torrentwiz3.com##div.pr_view
+torrentwiz3.com##div.top_banner
+torrentwiz3.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
