@@ -12,9 +12,9 @@ torrentwiz3.com##div.pr_view
 torrentwiz3.com##div.top_banner
 torrentwiz3.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
 
-taohuabbs.net/portal.php##.a_cb.a_fl
-taohuabbs.net/portal.php##.a_cb.a_fr
-taohuabbs.net/portal.php##.ex1
-taohuabbs.net/portal.php##.a_cn
-taohuabbs.net/portal.php##body > div:nth-of-type(4)
-taohuabbs.net/portal.php##.portal_block_summary
+taohuabbs.net##div.a_cb.a_fl
+taohuabbs.net##div.a_cb.a_fr
+taohuabbs.net##div.ex1
+taohuabbs.net##div.a_cn
+taohuabbs.net##divbody > div:nth-of-type(4)
+taohuabbs.net##div.portal_block_summary
