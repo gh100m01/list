@@ -14,7 +14,7 @@ torrentwiz3.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
 
 taohuabbs.net##div.a_cb.a_fl
 taohuabbs.net##div.a_cb.a_fr
-taohuabbs.net##div.ex1
 taohuabbs.net##div.a_cn
-taohuabbs.net##div.nth-of-type(4)
+taohuabbs.net##div.body > div:nth-of-type(4)
 taohuabbs.net##div.portal_block_summary
+taohuabbs.net##div.ex1
