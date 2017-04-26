@@ -11,3 +11,8 @@ torrentwiz4.com##div.pr_main_right_4
 torrentwiz4.com##div.pr_view
 torrentwiz4.com##div.top_banner
 torrentwiz4.com##div.view-wrap.view-wrap-pad>div.clearfix.hiddenpage
+
+torrenthaja.com/##.left > div:nth-of-type(1)
+torrenthaja.com/##.sidebar_banner:nth-of-type(1)
+torrenthaja.com/##.sidebar_banner:nth-of-type(3)
+torrenthaja.com/##.sidebar_banner:nth-of-type(4)
