@@ -23,4 +23,4 @@ avnori.com##div.sidebar_banner:nth-of-type(3)
 avnori.com##div.sidebar_banner:nth-of-type(4)
 avnori.com##div#quick_menu
 
-tfreeca22.com##div.body>table:nth-of-type(1)>tbody>tr>td:nth-of-type(1)
+tfreeca22.com##div.td:nth-of-type(1)
