@@ -6,4 +6,8 @@ torrenthaja.com##div.sidebar_banner:nth-of-type(4)
 avnori.com##.padding-bottom-10.main-banner.row-75.row
 avnori.com##.side-banner.row-75.row
 
+tfreeca22.com##iframe[src="/include/nolzzang_top.html"]
+tfreeca22.com###ad_left
+tfreeca22.com###ad_right
+tfreeca22.com##td:nth-of-type(2)>table:nth-of-type(1)
 tfreeca22.com##body>table:nth-of-type(1)>tbody>tr>td:nth-of-type(1)
