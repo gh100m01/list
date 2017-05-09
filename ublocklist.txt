@@ -5,3 +5,5 @@ torrenthaja.com##div.sidebar_banner:nth-of-type(4)
 
 avnori.com##.padding-bottom-10.main-banner.row-75.row
 avnori.com##.side-banner.row-75.row
+
+tfreeca22.com##body>table:nth-of-type(1)>tbody>tr>td:nth-of-type(1)
