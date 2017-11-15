@@ -1,6 +1,5 @@
 torrenthaja.com##.padding-bottom-10.main-banner.row-75.row
 torrenthaja.com###banner_22
-torrenthaja.com##.hidden-xs.hidden-sm.menu-banner
 torrenthaja.com##.side-banner.row-75.row
 avnori.com##.padding-bottom-10.main-banner.row-75.row
 avnori.com###banner_22
