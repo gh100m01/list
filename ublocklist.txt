@@ -4,7 +4,7 @@ torrenthaja.com##.side-banner.row-75.row
 avnori.com##.padding-bottom-10.main-banner.row-75.row
 avnori.com###banner_22
 avnori.com##.side-banner.row-75.row
-totoria.biz###content_wrapper > div:nth-of-type(1)
-totoria.biz##[src="../img/bn/barom.gif"]
-totoria.biz##div#sky:nth-of-type(2)
-totoria.biz##div#sky:nth-of-type(3)
+totoria.co###content_wrapper > div:nth-of-type(1)
+totoria.co##[src="../img/bn/barom.gif"]
+totoria.co##div#sky:nth-of-type(2)
+totoria.co##div#sky:nth-of-type(3)
