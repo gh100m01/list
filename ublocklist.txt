@@ -1,9 +1,9 @@
 torrenthaja.com##.padding-bottom-10.main-banner.row-75.row
 torrenthaja.com###banner_22
 torrenthaja.com##.side-banner.row-75.row
-avnori.com##.padding-bottom-10.main-banner.row-75.row
-avnori.com###banner_22
-avnori.com##.side-banner.row-75.row
+avnori.pro##.padding-bottom-10.main-banner.row-75.row
+avnori.pro###banner_22
+avnori.pro##.side-banner.row-75.row
 totoria.co###content_wrapper > div:nth-of-type(1)
 totoria.co##[src="../img/bn/thebettingtime.gif"]
 totoria.co##[src="../img/bn/yasibn.gif"]
