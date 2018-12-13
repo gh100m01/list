@@ -17,5 +17,3 @@ torrentmap.com###container_wr > div:nth-of-type(5)
 torrentmap.com##section#bo_v_file:nth-of-type(1)
 torrentmap.com###bo_v_atc > div:nth-of-type(2)
 torrentmap.com###bo_v_atc > div:nth-of-type(4)
-torrentao.com###top_banner
-torrentao.com###side_banner
