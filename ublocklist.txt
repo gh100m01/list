@@ -22,3 +22,4 @@ torrentmap.com###bo_v_atc > div:nth-of-type(3)
 torrentmap.com###bo_v_atc > div:nth-of-type(4)
 torrentmap.com###bo_v_atc > div:nth-of-type(5)
 torrentmap.com###down_notice
+torrentmap.com###left_bj > div
