@@ -26,3 +26,6 @@ torrentmap.com###down_notice
 torrentmap.com###left_bj > div
 torrentwal.com###left_ad_1 > center
 torrentwal.com###inserting > center
+torrentboza.com##.at-container > .header-banner
+torrentboza.com##.torrentboza.ad_table > .row
+torrentboza.com##.torrentboza.ad_table_b > .row
