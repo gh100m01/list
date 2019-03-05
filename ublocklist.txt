@@ -29,3 +29,5 @@ torrentwal.com###inserting > center
 torrentboza.com##.at-container > .header-banner
 torrentboza.com##.torrentboza.ad_table > .row
 torrentboza.com##.torrentboza.ad_table_b > .row
+torrentpan.net##.row-10.row.basic-banner
+torrentpan.net##.side-banner.row-75.row
