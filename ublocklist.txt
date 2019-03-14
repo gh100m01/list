@@ -16,6 +16,7 @@ torrentmap.com###bo_v_atc > div:nth-of-type(3)
 torrentwal.com###left_ad_1 > center
 torrentwal.com###left_ad_2 > center
 torrentwal.com###inserting > center
+torrentboza.com###hd_pops_1
 torrentboza.com##.at-container > .header-banner
 torrentboza.com##.torrentboza.ad_table > .row
 torrentboza.com##.torrentboza.ad_table_b > .row
