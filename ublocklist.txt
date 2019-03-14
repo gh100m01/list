@@ -4,7 +4,6 @@ torrenthaja.com##.side-banner.row-75.row
 avnori.pro##.padding-bottom-10.main-banner.row-75.row
 avnori.pro###banner_22
 avnori.pro##.side-banner.row-75.row
-
 torrentwal.com###left_ad_1 > center
 torrentwal.com###left_ad_2 > center
 torrentwal.com###inserting > center
