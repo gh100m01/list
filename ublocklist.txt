@@ -15,3 +15,13 @@ torrentboza.com##.torrentboza.ad_table_b > .row
 torrentboza.com###floatdiv > ul
 torrentpan.net##.row-10.row.basic-banner
 torrentpan.net##.side-banner.row-75.row
+torrentmap.com###down_notice
+torrentmap.com###hd_wrapper > div:nth-of-type(2)
+torrentmap.com##div:nth-of-type(8)
+torrentmap.com###ad_board
+torrentmap.com###left_bj
+torrentmap.com###container_wr > div:nth-of-type(5)
+torrentmap.com##section#bo_v_file:nth-of-type(1) > ul:nth-of-type(1)
+torrentmap.com##section#bo_v_file:nth-of-type(1) > ul:nth-of-type(2)
+torrentmap.com##section#bo_v_file:nth-of-type(1) > ul:nth-of-type(3)
+torrentmap.com###bo_v_atc > div:nth-of-type(3)
