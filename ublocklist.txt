@@ -25,3 +25,4 @@ torrentmap.com###gnb > div:nth-of-type(2)
 torrentmap.com##ul.banner:nth-of-type(1)
 torrentmap.com##ul.banner:nth-of-type(2)
 torrentmap.com###down_notice
+torrentmap.com###right_image
