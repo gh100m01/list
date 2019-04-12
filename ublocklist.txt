@@ -21,7 +21,6 @@ torrentmap.com###hd_wrapper > .banner
 torrentmap.com###container_wr > .banner
 torrentmap.com##li > .banner
 torrentmap.com###bo_v_atc > .banner
-torrentmap.com###gnb > div:nth-of-type(2)
 torrentmap.com##ul.banner:nth-of-type(1)
 torrentmap.com##ul.banner:nth-of-type(2)
 torrentmap.com###down_notice
