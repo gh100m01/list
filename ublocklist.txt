@@ -30,5 +30,7 @@ torrentmap.com##div.banner:nth-of-type(9)
 tocafe.net##div#banner_top_wrapper:nth-of-type(1)
 tocafe.net##div#banner_top_wrapper:nth-of-type(2)
 tocafe.net###banner_right
+jamakav.com##.active.item
+jamakav.com##.owl-wrapper-outer
 @@||tcafe2a.com/adlink/banner_samatika.jpg$image,first-party
 @@||tcafe2a.com/js/ads.js$script,first-party
