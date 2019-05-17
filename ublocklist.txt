@@ -17,7 +17,15 @@ torrentpan.net##.row-10.row.basic-banner
 torrentpan.net##.side-banner.row-75.row
 torrentpan.net##body > div:nth-of-type(4)
 torrentpan.net##body > div:nth-of-type(5)
-
+torrentmap.com###hd_wrapper > .banner
+torrentmap.com###ad_board
+torrentmap.com##section#bo_v_file:nth-of-type(1)
+torrentmap.com###bo_v_atc > div.banner:nth-of-type(2)
+torrentmap.com###bo_v_atc > div.banner:nth-of-type(4)
+torrentmap.com###container > .banner
+torrentmap.com###container_wr > div.banner:nth-of-type(4)
+torrentmap.com##div.banner:nth-of-type(7)
+torrentmap.com##div.banner:nth-of-type(10)
 tocafe.net##div#banner_top_wrapper:nth-of-type(1)
 tocafe.net##div#banner_top_wrapper:nth-of-type(2)
 tocafe.net###banner_right
