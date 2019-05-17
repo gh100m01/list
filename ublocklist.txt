@@ -25,6 +25,7 @@ torrentmap.com###bo_v_atc > div.banner:nth-of-type(4)
 torrentmap.com###container > .banner
 torrentmap.com###container_wr > div.banner:nth-of-type(4)
 torrentmap.com##div.banner:nth-of-type(7)
+torrentmap.com##div.banner:nth-of-type(9)
 torrentmap.com##div.banner:nth-of-type(10)
 tocafe.net##div#banner_top_wrapper:nth-of-type(1)
 tocafe.net##div#banner_top_wrapper:nth-of-type(2)
