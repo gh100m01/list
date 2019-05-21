@@ -34,7 +34,10 @@ yaburi08.men##.ybm.at-main.pull-right.col-md-8 > .row
 yaburi08.men###hd_pops_6
 yaburi08.men###hd_pops_7
 yaburi08.men##.ybm.at-side.at-col.pull-right.col-md-2
-torrentmal4.com##.main-row.row
-joybam.club##.main-row.row
+torrentmal.me##.main-row.row
+torrentmal.me##.container
+joybam.club##.at-main.at-col.col-md-9 > div:nth-of-type(1)
+joybam.club##.at-main.at-col.col-md-9 > div:nth-of-type(2)
+joybam.club##.container
 @@||tcafe2a.com/adlink/banner_samatika.jpg$image,first-party
 @@||tcafe2a.com/js/ads.js$script,first-party
