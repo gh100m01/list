@@ -1,13 +1,13 @@
 torrenthaja1.com##.padding-bottom-10.main-banner.row-75.row
 torrenthaja1.com###banner_22
 torrenthaja1.com##.side-banner.row-75.row
-avnori.pro##.padding-bottom-10.main-banner.row-75.row
-avnori.pro###banner_22
-avnori.pro##.side-banner.row-75.row
-torrentwal.com###left_ad_1 > center
-torrentwal.com###left_ad_2 > center
-torrentwal.com###left_ad_3
-torrentwal.com###inserting > center
+avnori1.com##.padding-bottom-10.main-banner.row-75.row
+avnori1.com###banner_22
+avnori1.com##.side-banner.row-75.row
+torrentwal1.com###left_ad_1 > center
+torrentwal1.com###left_ad_2 > center
+torrentwal1.com###left_ad_3
+torrentwal1.com###inserting > center
 torrentboza.com###hd_pops_1
 torrentboza.com##.at-container > .header-banner
 torrentboza.com##.torrentboza.ad_table > .row
@@ -41,8 +41,8 @@ yaburi08.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nt
 yaburi08.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
 torrentmal.me##.main-row.row
 torrentmal.me##.container
-joybam.club##.at-main.at-col.col-md-9 > div:nth-of-type(1)
-joybam.club##.at-main.at-col.col-md-9 > div:nth-of-type(2)
-joybam.club##.container
+joybam.me##.at-main.at-col.col-md-9 > div:nth-of-type(1)
+joybam.me##.at-main.at-col.col-md-9 > div:nth-of-type(2)
+joybam.me##.container
 @@||tcafe2a.com/adlink/banner_samatika.jpg$image,first-party
 @@||tcafe2a.com/js/ads.js$script,first-party
