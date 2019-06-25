@@ -19,6 +19,14 @@ torrentpan.net##body > div:nth-of-type(5)
 tocafe.net##div#banner_top_wrapper:nth-of-type(1)
 tocafe.net##div#banner_top_wrapper:nth-of-type(2)
 tocafe.net###banner_right
+torrentmap.com###banner_top_list_wrap
+torrentmap.com###banner_right_list_wrap
+torrentmap.com###container_wr > div.banner:nth-of-type(7)
+torrentmap.com##div.banner:nth-of-type(9)
+torrentmap.com###container > .banner
+torrentmap.com##section#bo_v_file:nth-of-type(1)
+torrentmap.com###bo_v_atc > .banner
+torrentmap.com##div.banner:nth-of-type(10)
 yaburi09.men###hd_pops_6
 yaburi09.men###hd_pops_7
 yaburi09.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
