@@ -4,10 +4,9 @@ torrenthaja1.com##.side-banner.row-75.row
 avnori1.com##.padding-bottom-10.main-banner.row-75.row
 avnori1.com###banner_22
 avnori1.com##.side-banner.row-75.row
-torrentwal1.com###left_ad_1 > center
-torrentwal1.com###left_ad_2 > center
-torrentwal1.com###left_ad_3
-torrentwal1.com###inserting > center
+torrentwal.com###left_ad_1
+torrentwal.com###left_ad_2
+torrentwal.com###left_ad_3
 torrentboza.com###hd_pops_1
 torrentboza.com##.at-container > .header-banner
 torrentboza.com##.torrentboza.ad_table > .row
