@@ -16,6 +16,7 @@ torrentpan.net##.row-10.row.basic-banner
 torrentpan.net##.side-banner.row-75.row
 torrentpan.net##body > div:nth-of-type(4)
 torrentpan.net##body > div:nth-of-type(5)
+torrentmap.com###banner_top_list_wrap
 torrentmap.com###hd_wrapper > .banner
 torrentmap.com###ad_board
 torrentmap.com##section#bo_v_file:nth-of-type(1)
