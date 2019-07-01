@@ -8,11 +8,6 @@ torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
 torrentwal.com###inserting
-torrentboza.com###hd_pops_1
-torrentboza.com##.at-container > .header-banner
-torrentboza.com##.torrentboza.ad_table > .row
-torrentboza.com##.torrentboza.ad_table_b > .row
-torrentboza.com###floatdiv > ul
 torrentpan3.net##.row-10.row.basic-banner
 torrentpan3.net##.side-banner.row-75.row
 torrentpan3.net##body > div:nth-of-type(4)
