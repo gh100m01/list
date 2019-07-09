@@ -23,15 +23,15 @@ torrentmap.com###container > .banner
 torrentmap.com##section#bo_v_file:nth-of-type(1)
 torrentmap.com###bo_v_atc > .banner
 torrentmap.com##div.banner:nth-of-type(10)
-yaburi09.men###hd_pops_6
-yaburi09.men###hd_pops_7
-yaburi09.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
-yaburi09.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
-yaburi09.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
-yaburi09.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
-yaburi09.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
-yaburi09.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
-yaburi09.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
+yaburi10.men###hd_pops_6
+yaburi10.men###hd_pops_7
+yaburi10.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
+yaburi10.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
+yaburi10.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
+yaburi10.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
+yaburi10.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
+yaburi10.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
+yaburi10.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
 joybam.me##.at-main.at-col.col-md-9 > div:nth-of-type(1)
 joybam.me##.at-main.at-col.col-md-9 > div:nth-of-type(2)
 joybam.me##.container
