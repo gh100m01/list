@@ -1,6 +1,6 @@
-torrenthaja3.com##.padding-bottom-10.main-banner.row-75.row
-torrenthaja3.com###banner_22
-torrenthaja3.com##.side-banner.row-75.row
+torrenthaja1.com##.padding-bottom-10.main-banner.row-75.row
+torrenthaja1.com###banner_22
+torrenthaja1.com##.side-banner.row-75.row
 avnori1.com##.padding-bottom-10.main-banner.row-75.row
 avnori1.com###banner_22
 avnori1.com##.side-banner.row-75.row
