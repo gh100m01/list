@@ -15,6 +15,7 @@ torrentpan5.net##body > div:nth-of-type(5)
 tocafe.net##div#banner_top_wrapper:nth-of-type(1)
 tocafe.net##div#banner_top_wrapper:nth-of-type(2)
 tocafe.net###banner_right
+torrentblack.com###banner_right_list_wrap
 yaburi11.men###hd_pops_6
 yaburi11.men###hd_pops_7
 yaburi11.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
