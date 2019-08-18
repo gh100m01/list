@@ -1,28 +1,20 @@
-torrenthaja1.com##.padding-bottom-10.main-banner.row-75.row
-torrenthaja1.com###banner_22
-torrenthaja1.com##.side-banner.row-75.row
-avnori1.com##.padding-bottom-10.main-banner.row-75.row
-avnori1.com###banner_22
-avnori1.com##.side-banner.row-75.row
+torrenthaja6.com##.padding-bottom-10.main-banner.row-75.row
+torrenthaja6.com###banner_22
+torrenthaja6.com##.side-banner.row-75.row
+avnori2.com##.padding-bottom-10.main-banner.row-75.row
+avnori2.com###banner_22
+avnori2.com##.side-banner.row-75.row
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
 torrentwal.com###inserting
-torrentpan3.net##.row-10.row.basic-banner
-torrentpan3.net##.side-banner.row-75.row
-torrentpan3.net##body > div:nth-of-type(4)
-torrentpan3.net##body > div:nth-of-type(5)
+torrentpan5.net##.row-10.row.basic-banner
+torrentpan5.net##.side-banner.row-75.row
+torrentpan5.net##body > div:nth-of-type(4)
+torrentpan5.net##body > div:nth-of-type(5)
 tocafe.net##div#banner_top_wrapper:nth-of-type(1)
 tocafe.net##div#banner_top_wrapper:nth-of-type(2)
 tocafe.net###banner_right
-torrentmap.com###banner_top_list_wrap
-torrentmap.com###banner_right_list_wrap
-torrentmap.com###container_wr > div.banner:nth-of-type(7)
-torrentmap.com##div.banner:nth-of-type(9)
-torrentmap.com###container > .banner
-torrentmap.com##section#bo_v_file:nth-of-type(1)
-torrentmap.com###bo_v_atc > .banner
-torrentmap.com##div.banner:nth-of-type(10)
 yaburi11.men###hd_pops_6
 yaburi11.men###hd_pops_7
 yaburi11.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
@@ -32,11 +24,5 @@ yaburi11.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nt
 yaburi11.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
 yaburi11.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
 yaburi11.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
-joybam.me##.at-main.at-col.col-md-9 > div:nth-of-type(1)
-joybam.me##.at-main.at-col.col-md-9 > div:nth-of-type(2)
-joybam.me##.container
-ubang11.com##.top-bnr
-ubang11.com##.text-right.view-btn
-ubang11.com##.blin.col-sm-12
 @@||tcafe2a.com/adlink/banner_samatika.jpg$image,first-party
 @@||tcafe2a.com/js/ads.js$script,first-party
