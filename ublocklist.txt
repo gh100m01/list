@@ -2,6 +2,7 @@
 avnori2.com##.padding-bottom-10.main-banner.row-75.row
 avnori2.com###banner_22
 avnori2.com##.side-banner.row-75.row
+torrentblack.com###banner_top_list_wrap
 torrentblack.com###banner_right_list_wrap
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
