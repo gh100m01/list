@@ -10,8 +10,7 @@ torrentwal.com###inserting
 torrenthaja5.com##.padding-bottom-10.main-banner.row-75.row
 torrenthaja5.com###banner_22
 torrenthaja5.com##.side-banner.row-75.row
-yaburi11.men###hd_pops_6
-yaburi11.men###hd_pops_7
+yaburi11.men###hd_pop
 yaburi11.men##div.banner.widget-box:nth-of-type(5)
 yaburi11.men##div.banner.widget-box:nth-of-type(6)
 yaburi11.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
