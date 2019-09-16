@@ -1,7 +1,8 @@
-avnori1.com,torrenthaja8.com##.padding-bottom-10.main-banner.row-75.row
-avnori1.com,torrenthaja8.com###banner_22
-avnori1.com,torrenthaja8.com##.side-banner.row-75.row
-avnori1.com,torrenthaja8.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
+avnori1.com,torrenthaja10.com##.padding-bottom-10.main-banner.row-75.row
+avnori1.com,torrenthaja10.com###banner_22
+avnori1.com,torrenthaja10.com##.side-banner.row-75.row
+avnori1.com,torrenthaja10.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
+tcafe2a.com###divpop > table > tbody
 torrentblack.com,torrenger.com###banner_top_list_wrap
 torrentblack.com,torrenger.com###banner_right_list_wrap
 torrentblack.com,torrenger.com,torrentbe.com###down_notice
