@@ -20,5 +20,3 @@ yaburi12.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nt
 yaburi12.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
 yaburi12.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
 yaburi12.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
-@@||tcafe2a.com/adlink/banner_samatika.jpg$image,first-party
-@@||tcafe2a.com/js/ads.js$script,first-party
