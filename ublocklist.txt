@@ -3,12 +3,12 @@ avnori1.com,torrenthaja11.com###banner_22
 avnori1.com,torrenthaja11.com##.side-banner.row-75.row
 avnori1.com,torrenthaja11.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
 tcafe2a.com###divpop > table > tbody
-torrentbe.net,torrentblack.com,torrenger.com###hd_pop
-torrentbe.net,torrentblack.com,torrenger.com###hd_wrapper > .banner
-torrentbe.net,torrentblack.com,torrenger.com###banner_top_list_wrap
-torrentbe.net,torrentblack.com,torrenger.com###banner_right_list_wrap
-torrentbe.net,torrentblack.com,torrenger.com##div.banner:nth-of-type(3)
-torrentbe.net,torrentblack.com,torrenger.com##div.banner:nth-of-type(7)
+torrentbe.net,torrent-black.com,torrenger.net###hd_pop
+torrentbe.net,torrent-black.com,torrenger.net###hd_wrapper > .banner
+torrentbe.net,torrent-black.com,torrenger.net###banner_top_list_wrap
+torrentbe.net,torrent-black.com,torrenger.net###banner_right_list_wrap
+torrentbe.net,torrent-black.com,torrenger.net##div.banner:nth-of-type(3)
+torrentbe.net,torrent-black.com,torrenger.net##div.banner:nth-of-type(7)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
