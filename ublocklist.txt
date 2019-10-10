@@ -16,13 +16,13 @@ torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
 torrentwal.com###inserting
-yaburi13.men,yatamin.com###hd_pop
-yaburi13.men##div.banner.widget-box:nth-of-type(5)
-yaburi13.men##div.banner.widget-box:nth-of-type(6)
-yaburi13.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
-yaburi13.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
-yaburi13.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
-yaburi13.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
-yaburi13.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
-yaburi13.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
-yaburi13.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
+yaburi14.men,yatamin.com###hd_pop
+yaburi14.men##div.banner.widget-box:nth-of-type(5)
+yaburi14.men##div.banner.widget-box:nth-of-type(6)
+yaburi14.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
+yaburi14.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
+yaburi14.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
