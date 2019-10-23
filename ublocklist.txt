@@ -6,6 +6,7 @@ torrentp.com,torrent-black.net###hd_wrapper > .banner
 torrentp.com,torrent-black.net###banner_top_list_wrap
 torrentp.com,torrent-black.net###banner_right_list_wrap
 torrentp.com,torrent-black.net##div.banner:nth-of-type(7) > div
+torrentp.com,torrent-black.net##div.banner:nth-of-type(3)
 torrentp.com,torrent-black.net##div.banner:nth-of-type(4)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
