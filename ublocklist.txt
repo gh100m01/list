@@ -1,3 +1,6 @@
+avnori1.com,torrenthaja11.com##.padding-bottom-10.main-banner.row-75.row
+avnori1.com,torrenthaja11.com##.side-banner.row-75.row
+avnori1.com,torrenthaja11.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
 fxxko02.com##.top_banner.clearfix.row > table
 fxxko02.com##div.mobile-banner.col-md-12:nth-of-type(2) > .main_top_bann1
 tcafe2a.com###divpop > table > tbody
@@ -5,10 +8,22 @@ torrentp.com,torrent-black.net###hd_pop
 torrentp.com,torrent-black.net###hd_wrapper > .banner
 torrentp.com,torrent-black.net###banner_top_list_wrap
 torrentp.com,torrent-black.net###banner_right_list_wrap
-torrentp.com,torrent-black.net##div.banner:nth-of-type(7) > div
 torrentp.com,torrent-black.net##div.banner:nth-of-type(3)
 torrentp.com,torrent-black.net##div.banner:nth-of-type(4)
+torrentp.com,torrent-black.net##div.banner:nth-of-type(5)
+torrentp.com,torrent-black.net##div.banner:nth-of-type(6)
+torrentp.com,torrent-black.net##div.banner:nth-of-type(8)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
 torrentwal.com###inserting
+yaburi14.men,yatamin.com###hd_pop
+yaburi14.men##div.banner.widget-box:nth-of-type(5)
+yaburi14.men##div.banner.widget-box:nth-of-type(6)
+yaburi14.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
+yaburi14.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
+yaburi14.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
+yaburi14.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
