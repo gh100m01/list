@@ -5,6 +5,12 @@ avnori1.com,torrenthaja11.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/
 fxxko02.com##.top_banner.clearfix.row > table
 fxxko02.com##div.mobile-banner.col-md-12:nth-of-type(2) > .main_top_bann1
 tcafe2a.com###divpop > table > tbody
+torrentp.com,torrent-black.net###hd_pop
+torrentp.com,torrent-black.net###hd_wrapper > .banner
+torrentp.com,torrent-black.net###banner_top_list_wrap
+torrentp.com,torrent-black.net###banner_right_list_wrap
+torrentp.com,torrent-black.net##div.banner:nth-of-type(7) > div
+torrentp.com,torrent-black.net##div.banner:nth-of-type(4)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
