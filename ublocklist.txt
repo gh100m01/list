@@ -7,11 +7,13 @@ torrentp.com,torrent-black.com,torrenger.net###hd_pop
 torrentp.com,torrent-black.com,torrenger.net###hd_wrapper > .banner
 torrentp.com,torrent-black.com,torrenger.net###banner_top_list_wrap
 torrentp.com,torrent-black.com,torrenger.net###banner_right_list_wrap
+torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(1)
 torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(3)
 torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(4)
 torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(5)
 torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(6)
 torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(7)
+torrentp.com,torrent-black.com,torrenger.net##div.banner:nth-of-type(8)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
