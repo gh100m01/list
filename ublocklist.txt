@@ -8,6 +8,7 @@ torrentp.net,torrent-black.net###hd_pop
 torrentp.net,torrent-black.net###hd_wrapper > .banner
 torrentp.net,torrent-black.net###banner_top_list_wrap
 torrentp.net,torrent-black.net###banner_right_list_wrap
+torrentp.net,torrent-black.net##div.banner:nth-of-type(1)
 torrentp.net,torrent-black.net##div.banner:nth-of-type(3)
 torrentp.net,torrent-black.net##div.banner:nth-of-type(4)
 torrentp.net,torrent-black.net##div.banner:nth-of-type(5)
