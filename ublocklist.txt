@@ -1,21 +1,19 @@
 avnori1.com,torrenthaja12.com##.padding-bottom-10.main-banner.row-75.row
 avnori1.com,torrenthaja12.com##.side-banner.row-75.row
 avnori1.com,torrenthaja12.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
-fxxko02.com##.top_banner.clearfix.row > table
-fxxko02.com##div.mobile-banner.col-md-12:nth-of-type(2) > .main_top_bann1
 tcafe2a.com###divpop > table > tbody
-torrentp.net,torrent-black.net###hd_pop
-torrentp.net,torrent-black.net###down_notice
-torrentp.net,torrent-black.net###hd_wrapper > .banner
-torrentp.net,torrent-black.net###banner_top_list_wrap
-torrentp.net,torrent-black.net###banner_right_list_wrap
-torrentp.net,torrent-black.net##div.banner:nth-of-type(1)
-torrentp.net,torrent-black.net##div.banner:nth-of-type(3)
-torrentp.net,torrent-black.net##div.banner:nth-of-type(4)
-torrentp.net,torrent-black.net##div.banner:nth-of-type(5)
-torrentp.net,torrent-black.net##div.banner:nth-of-type(6)
-torrentp.net,torrent-black.net##div.banner:nth-of-type(7)
-torrentp.net,torrent-black.net##div.banner:nth-of-type(8)
+utofile.com,torrent-black.net###hd_pop
+utofile.com,torrent-black.net###down_notice
+utofile.com,torrent-black.net###hd_wrapper > .banner
+utofile.com,torrent-black.net###banner_top_list_wrap
+utofile.com,torrent-black.net###banner_right_list_wrap
+utofile.com,torrent-black.net##div.banner:nth-of-type(1)
+utofile.com,torrent-black.net##div.banner:nth-of-type(3)
+utofile.com,torrent-black.net##div.banner:nth-of-type(4)
+utofile.com,torrent-black.net##div.banner:nth-of-type(5)
+utofile.com,torrent-black.net##div.banner:nth-of-type(6)
+utofile.com,torrent-black.net##div.banner:nth-of-type(7)
+utofile.com,torrent-black.net##div.banner:nth-of-type(8)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
