@@ -14,6 +14,7 @@ utofile.net##div.banner:nth-of-type(5)
 utofile.net##div.banner:nth-of-type(6)
 utofile.net##div.banner:nth-of-type(7)
 utofile.net##div.banner:nth-of-type(8)
+utofile.net##div.banner:nth-of-type(9)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
