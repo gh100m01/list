@@ -2,20 +2,20 @@ avnori1.com,torrenthaja13.com##.padding-bottom-10.main-banner.row-75.row
 avnori1.com,torrenthaja13.com##.side-banner.row-75.row
 avnori1.com,torrenthaja13.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
 tcafe2a.com###divpop > table > tbody
-utofile.me###hd_pop
-utofile.me###down_notice
-utofile.me###hd_wrapper > .banner
-utofile.me###banner_top_list_wrap
-utofile.me###banner_right_list_wrap
-utofile.me##div.banner:nth-of-type(1)
-utofile.me##div.banner:nth-of-type(2)
-utofile.me##div.banner:nth-of-type(3)
-utofile.me##div.banner:nth-of-type(4)
-utofile.me##div.banner:nth-of-type(5)
-utofile.me##div.banner:nth-of-type(6)
-utofile.me##div.banner:nth-of-type(7)
-utofile.me##div.banner:nth-of-type(8)
-utofile.me##div.banner:nth-of-type(9)
+utofile.net###hd_pop
+utofile.net###down_notice
+utofile.net###hd_wrapper > .banner
+utofile.net###banner_top_list_wrap
+utofile.net###banner_right_list_wrap
+utofile.net##div.banner:nth-of-type(1)
+utofile.net##div.banner:nth-of-type(2)
+utofile.net##div.banner:nth-of-type(3)
+utofile.net##div.banner:nth-of-type(4)
+utofile.net##div.banner:nth-of-type(5)
+utofile.net##div.banner:nth-of-type(6)
+utofile.net##div.banner:nth-of-type(7)
+utofile.net##div.banner:nth-of-type(8)
+utofile.net##div.banner:nth-of-type(9)
 torrentwal.com###left_ad_1
 torrentwal.com###left_ad_2
 torrentwal.com###left_ad_3
