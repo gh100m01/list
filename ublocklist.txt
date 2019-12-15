@@ -1,7 +1,7 @@
-avnori1.com,torrenthaja13.com##.padding-bottom-10.main-banner.row-75.row
-avnori1.com,torrenthaja13.com##.side-banner.row-75.row
-avnori1.com,torrenthaja13.com##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
-tcafe2a.com###divpop > table > tbody
+##.padding-bottom-10.main-banner.row-75.row
+##.side-banner.row-75.row
+##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
+###divpop > table > tbody
 ###hd_pop
 ###down_notice
 ###hd_wrapper > .banner
@@ -16,17 +16,16 @@ tcafe2a.com###divpop > table > tbody
 ##div.banner:nth-of-type(7)
 ##div.banner:nth-of-type(8)
 ##div.banner:nth-of-type(9)
-torrentwal.com###left_ad_1
-torrentwal.com###left_ad_2
-torrentwal.com###left_ad_3
-torrentwal.com###inserting
-yaburi16.men,yatamin.com###hd_pop
-yaburi16.men##div.banner.widget-box:nth-of-type(5)
-yaburi16.men##div.banner.widget-box:nth-of-type(6)
-yaburi16.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
-yaburi16.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
-yaburi16.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
-yaburi16.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
-yaburi16.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
-yaburi16.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
-yaburi16.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
+###left_ad_1
+###left_ad_2
+###left_ad_3
+###inserting
+##div.banner.widget-box:nth-of-type(5)
+##div.banner.widget-box:nth-of-type(6)
+##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
+##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
+##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
+##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
+##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
+##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
+##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
