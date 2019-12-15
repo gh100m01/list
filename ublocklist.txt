@@ -1,7 +1,10 @@
+!! avnori, torrenthaja
 ##.padding-bottom-10.main-banner.row-75.row
 ##.side-banner.row-75.row
 ##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
+!! tcafe2a
 ###divpop > table > tbody
+!! utofile
 ###hd_pop
 ###down_notice
 ###hd_wrapper > .banner
@@ -16,10 +19,12 @@
 ##div.banner:nth-of-type(7)
 ##div.banner:nth-of-type(8)
 ##div.banner:nth-of-type(9)
+!! torrentwal
 ###left_ad_1
 ###left_ad_2
 ###left_ad_3
 ###inserting
+!! yaburi
 ##div.banner.widget-box:nth-of-type(5)
 ##div.banner.widget-box:nth-of-type(6)
 ##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
