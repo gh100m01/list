@@ -5,7 +5,6 @@
 !tcafe
 ###divpop > table > tbody
 !utofile
-###hd_pop
 ###down_notice
 ###hd_wrapper > .banner
 ###banner_top_list_wrap
@@ -24,7 +23,7 @@
 ###left_ad_2
 ###left_ad_3
 ###inserting
-!yaburi17.men,yatamin.com,u-tofile.net###hd_pop
+yaburi17.men,yatamin.com,u-tofile.net###hd_pop
 !yaburi
 ##div.banner.widget-box:nth-of-type(5)
 ##div.banner.widget-box:nth-of-type(6)
