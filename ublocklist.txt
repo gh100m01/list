@@ -24,12 +24,12 @@
 ###left_ad_3
 ###inserting
 yaburi17.men,yatamin.com,u-tofile.net###hd_pop
-##div.banner.widget-box:nth-of-type(5)
-##div.banner.widget-box:nth-of-type(6)
-##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
-##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
-##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
-##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
-##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
-##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
-##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
+yaburi17.men##div.banner.widget-box:nth-of-type(5)
+yaburi17.men##div.banner.widget-box:nth-of-type(6)
+yaburi17.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
+yaburi17.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(2)
+yaburi17.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(3)
+yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(1)
+yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(2)
+yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(3)
+yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box:nth-of-type(4)
