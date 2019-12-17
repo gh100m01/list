@@ -1,28 +1,17 @@
-!torrenthaja
-##.padding-bottom-10.main-banner.row-75.row
-##.side-banner.row-75.row
-##[src="https://res.cloudinary.com/dxjtcbrsv/image/upload/v1566485938/20190822_th_av_banner_zone_3_4_ver_1_sjpybh.gif"]
-!tcafe
-###divpop > table > tbody
-!utofile
-###down_notice
-###hd_wrapper > .banner
-###banner_top_list_wrap
-###banner_right_list_wrap
-##div.banner:nth-of-type(1)
-##div.banner:nth-of-type(2)
-##div.banner:nth-of-type(3)
-##div.banner:nth-of-type(4)
-##div.banner:nth-of-type(5)
-##div.banner:nth-of-type(6)
-##div.banner:nth-of-type(7)
-##div.banner:nth-of-type(8)
-##div.banner:nth-of-type(9)
-!torrentwal
-###left_ad_1
-###left_ad_2
-###left_ad_3
-###inserting
+tcafe2a.com###divpop > table > tbody
+u-tofile.net###down_notice
+u-tofile.net###hd_wrapper > .banner
+u-tofile.net###banner_top_list_wrap
+u-tofile.net###banner_right_list_wrap
+u-tofile.net##div.banner:nth-of-type(1)
+u-tofile.net##div.banner:nth-of-type(2)
+u-tofile.net##div.banner:nth-of-type(3)
+u-tofile.net##div.banner:nth-of-type(4)
+u-tofile.net##div.banner:nth-of-type(5)
+u-tofile.net##div.banner:nth-of-type(6)
+u-tofile.net##div.banner:nth-of-type(7)
+u-tofile.net##div.banner:nth-of-type(8)
+u-tofile.net##div.banner:nth-of-type(9)
 yaburi17.men,yatamin.com,u-tofile.net###hd_pop
 yaburi17.men##div.banner.widget-box:nth-of-type(5)
 yaburi17.men##div.banner.widget-box:nth-of-type(6)
