@@ -1,18 +1,18 @@
 tcafe2a.com###divpop > table > tbody
-u-tofile.net###down_notice
-u-tofile.net###hd_wrapper > .banner
-u-tofile.net###banner_top_list_wrap
-u-tofile.net###banner_right_list_wrap
-u-tofile.net##div.banner:nth-of-type(1)
-u-tofile.net##div.banner:nth-of-type(2)
-u-tofile.net##div.banner:nth-of-type(3)
-u-tofile.net##div.banner:nth-of-type(4)
-u-tofile.net##div.banner:nth-of-type(5)
-u-tofile.net##div.banner:nth-of-type(6)
-u-tofile.net##div.banner:nth-of-type(7)
-u-tofile.net##div.banner:nth-of-type(8)
-u-tofile.net##div.banner:nth-of-type(9)
-yaburi17.men,yatamin.com,u-tofile.net###hd_pop
+utofile.org###down_notice
+utofile.org###hd_wrapper > .banner
+utofile.org###banner_top_list_wrap
+utofile.org###banner_right_list_wrap
+utofile.org##div.banner:nth-of-type(1)
+utofile.org##div.banner:nth-of-type(2)
+utofile.org##div.banner:nth-of-type(3)
+utofile.org##div.banner:nth-of-type(4)
+utofile.org##div.banner:nth-of-type(5)
+utofile.org##div.banner:nth-of-type(6)
+utofile.org##div.banner:nth-of-type(7)
+utofile.org##div.banner:nth-of-type(8)
+utofile.org##div.banner:nth-of-type(9)
+yaburi17.men,yatamin.com,utofile.org###hd_pop
 yaburi17.men##div.banner.widget-box:nth-of-type(5)
 yaburi17.men##div.banner.widget-box:nth-of-type(6)
 yaburi17.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box:nth-of-type(1)
