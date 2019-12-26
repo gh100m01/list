@@ -1,5 +1,6 @@
 tcafe2a.com###divpop > table > tbody
 utofile.org###down_notice
+u-tofile.org###bo_v_atc > .banner
 utofile.org###hd_wrapper > .banner
 utofile.org###banner_top_list_wrap
 utofile.org###banner_right_list_wrap
