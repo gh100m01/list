@@ -5,4 +5,4 @@ uto-file.com###bo_v_atc > .banner
 uto-file.com,yaburi17.men,yatamin.com###hd_pop
 yaburi17.men##div.banner.widget-box
 yaburi17.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box
-yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-bo
+yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box
