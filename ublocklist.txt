@@ -1,8 +1,16 @@
-uto-file.com###banner_top_list_wrap
-uto-file.com###banner_right_list_wrap
-uto-file.com##div.banner
-uto-file.com###bo_v_atc > .banner
-uto-file.com,yaburi17.men,yatamin.com###hd_pop
-yaburi17.men##div.banner.widget-box
-yaburi17.men##div.p_side_0.col-xs-12.col-md-12.banner.widget-box
-yaburi17.men##.ybm.at-side.at-col.pull-right.col-md-2 > div.banner.widget-box
+avsee.ru##.title
+avsee.ru##div.main-box:nth-of-type(1)
+!avsee.ru##[src^="/imgs/"]
+
+avdbs.com##.shw-1200-over  
+avdbs.com##[class^="width-100-per"]
+
+##.root--ujvuu
+
+avsee.ru##[src="/imgs/bb_620.gif"]
+avsee.ru##[src="/imgs/crown_620.gif"]
+avsee.ru##[src="/imgs/amexblack.gif"]
+avsee.ru##[src="/imgs/avsee620.gif"]
+avsee.ru##[src="/imgs/magic.gif"]
+avsee.ru##[src="/imgs/bus2.gif"]
+avsee.ru##[src="/imgs/crown.gif"]
