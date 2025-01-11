@@ -5,8 +5,6 @@ avsee.ru##div.main-box:nth-of-type(1)
 avdbs.com##.shw-1200-over  
 avdbs.com##[class^="width-100-per"]
 
-##.root--ujvuu
-
 avsee.ru##[src="/imgs/bb_620.gif"]
 avsee.ru##[src="/imgs/crown_620.gif"]
 avsee.ru##[src="/imgs/amexblack.gif"]
